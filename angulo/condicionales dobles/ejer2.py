@@ -1,6 +1,5 @@
-
 #EJER2
-
+import os
 #declaracion de variables
 precio01,precio02,precio03,precio04 =0.0,0.0,0.0,0.0
 verificador= False
