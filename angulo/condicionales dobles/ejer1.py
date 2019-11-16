@@ -14,3 +14,15 @@ nota04=float(os.sys.argv[5])
 #processing
 promedio=float((nota01+nota02+nota03+nota04)/4)
 verificador=(promedio>=11)
+
+#output
+print("###############")
+print("#curso:",curso)
+print("promedio:",promedio)
+
+#condicional
+if(verificador):
+    print("APROBADO")
+else:
+    print("DESAPROBADO")
+#fin_if
