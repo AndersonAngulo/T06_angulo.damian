@@ -17,9 +17,9 @@ print("promedio:",promedio)
 #condicional
 if(promedio<11 and promedio>=0):
     print("Deficiente")
-if(promedio>11 and promedio<=18)
+if(promedio>11 and promedio<=18):
     print("Bueno")
-if (promedio>18 and promedio<=20)
+if (promedio>18 and promedio<=20):
     print("Excelente")
 
 #fin_if

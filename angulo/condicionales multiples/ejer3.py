@@ -15,8 +15,8 @@ print("area del triangulo:",area)
 #condicional
 if(area<=100 and area>0):
     print("triangulo pequeño")
-if(area>100 and area<=150)
+if(area>100 and area<=150):
     print("triangulo mediano")
-if(area>150)
+if(area>150):
     print("triangulo grande")
 #fin_if
