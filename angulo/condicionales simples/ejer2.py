@@ -15,7 +15,7 @@ verificador=(precio_promedio<=3.5)
 #output
 print("###############")
 print("#producto:",producto)
-print("precio promedio:",promedio)
+print("precio promedio:",precio_promedio)
 #condicional
 if(verificador):
     print("el precio del arroz el aceptable para el comprador")
